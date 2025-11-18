@@ -2,7 +2,7 @@
 Course Material for PPDS B2 2025
 19 Nov 2025
 
-### Week01
+### Week01 Work
 #### Worksheets
 - w01_wed_worksheet_1_strings.md
 - w01_wed_worksheet_2_numerics.md
