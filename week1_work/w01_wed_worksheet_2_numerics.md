@@ -190,7 +190,7 @@ print(f"42 as bool: {non_zero_as_bool}")      # Expected: True
 1. Why does `17 / 5` give `3.4` but `17 // 5` gives `3`?
 2. What's the difference between `=` and `==`?
 3. Why is `0` considered `False` but any other number `True`?
-4. When should you use parentheses in boolean expressions?
+4. When should you use parentheses in Boolean expressions?
 5. Why does `int(19.99)` give `19` and not `20`?
 
 ## Connection to Handin 1
@@ -200,4 +200,4 @@ These exercises prepare you for:
 - **Handin 1 Part 2:** Using arithmetic for data analysis
 - **Counting & calculations** with numeric operations
 
-Keep practicing! Math is the foundation of data science! 🔢
+Keep practising! Math is the foundation of data science!
