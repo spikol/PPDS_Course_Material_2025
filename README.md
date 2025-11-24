@@ -1,6 +1,12 @@
 # PPDS_Course_Material_2025
 Course Material for PPDS B2 2025
-19 Nov 2025
+
+## Information
+The exercise sheets and lab session materials for PPDS
+
+### Week 02 Work
+#### Worksheets
+ - w2_mon_slide_work_problems.md
 
 ### Week01 Work
 #### Worksheets
