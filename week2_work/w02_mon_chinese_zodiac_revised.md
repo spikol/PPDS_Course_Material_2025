@@ -12,7 +12,7 @@ The **Reference year:** 1996 is a Rat year (index 0 in our list). We use this as
 
 
 
-![chinese-zodiac](/Users/zfp165/Documents/DIKU TEACHING/Python B2/2025-2026 Course/images/chinese-zodiac.png)
+![chinese-zodiac](chinese-zodiac.png)
 
 
 
