@@ -247,7 +247,7 @@ for w in words:
 
 ### Part C: Bug Hunt - The Empty String Trap (5 minutes)
 
-A student wrote this code but it crashes. Run it in your head (or in Python) to find the problem.
+A student wrote this code, but it crashes. Run it in your head (or in Python) to find the problem.
 
 ```python
 words = ["hello", "how", "are", "you", ""]  # Note the empty string!
@@ -315,10 +315,6 @@ print(f"Words starting with 'h': {count}")
 - Use `random.randint(a, b)` to generate random integers
 - Create and import your own custom module
 
-### Estimated Time: 20-25 minutes
-
-------
-
 ### Part A: Using the `random` Module (10 minutes)
 
 #### Exercise 1: Basic Dice Roll with `import`
@@ -330,8 +326,6 @@ print(f"Words starting with 'h': {count}")
 5. Test your function by printing the result
 
 **Complete the scaffolding:**
-
-python
 
 ```python
 import ________
