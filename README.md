@@ -7,11 +7,14 @@ The exercise sheets and lab session materials for PPDS
 ### Week 03 Work
 - w3_monday_exercises.ipynb
 - w3_mon_dna_worksheet.ipynb and w3_mon_dna_worksheet.md
+#### Solutions (KL 16.00)
+
 
 ### Week 02 Work
 #### Worksheets
  - w2_mon_slide_work_problems.md
  - w2_weds.worksheet.md
+#### Solutions
 
 ### Week01 Work
 #### Worksheets
