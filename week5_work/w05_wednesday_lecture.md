@@ -284,27 +284,6 @@ c     7     8
 3. Figure out how to assign a different column name - e.g. 'words' **Hint: Start by figuring out how to print the column name, then assign a new name.**
 4. Figure out how to select all rows starting with the letter A. **Hint 1: Use the string accessor on a column. Hint 2: See str startswith methods in [documentation](https://docs.python.org/3/library/stdtypes.html#string-methods).**
 
-<!--  ---
-
-# Solution
-
-
-```python
-# Read it into a Dataframe
-df = pd.read_table('british-english', keep_default_na=False, header=None)
-
-# assign a different column name
-df.columns = ['words']
-
-#or
-
-df = df.rename(columns = {df.columns[0]:'words'})
-
-# Select all rows starting with the letter A
-print(df[df['words'].str.startswith('A')])
-
-``` -->
-
 ---
 
 # pandas - Dataframe - adding columns
@@ -539,23 +518,6 @@ print(df.sort_values(by='a',axis='columns'))
 2. Read them into two `DataFrame` variables `df1` and `df2`. Set the column name to `words` for both dataframes
 3. Merge the two word lists to a dataframe `df`. **Hint: check the argument `how` in pd.merge() (look in the documentation or search the web)**
 
-<!--  ---
-
-# Solution
-
-```python
-import pandas as pd
-df1 = pd.read_table('british-english_a-e', keep_default_na=False, header=None)
-
-df2 = pd.read_table('american-english_a-e', keep_default_na=False, header=None)
-
-df1.columns=['words']
-df2.columns=['words']
-
-df = pd.merge(df1, df2, how='outer',on='words')
-print(df)
-```
--->
 --- 
 
 <!-- -----DATA SCIENCE -------- -->
